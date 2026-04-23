@@ -1,0 +1,13 @@
+# Target labels
+ i2s_minimal
+# Source files and their labels
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/CMakeFiles/i2s_minimal
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/CMakeFiles/i2s_minimal.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/CMakeFiles/i2s_minimal-complete.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-build.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-configure.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-download.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-install.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-mkdir.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-patch.rule
+D:/work/ncs/github/i2s_minimal/build/_sysbuild/sysbuild/images/i2s_minimal-prefix/src/i2s_minimal-stamp/i2s_minimal-update.rule
