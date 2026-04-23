@@ -58,12 +58,12 @@ Configured in [boards/nrf54l15dk_nrf54l15_cpuapp.overlay](boards/nrf54l15dk_nrf5
 Must be run from the west workspace root (not this folder):
 
 ```powershell
-Push-Location D:\work\ncs\v3.3.0-rc2
+Push-Location <west-workspace>   # e.g. D:\work\ncs\v3.3.0-rc2
 west build -b nrf54l15dk/nrf54l15/cpuapp `
-    -s D:\work\ncs\github\i2s_minimal `
-    -d D:\work\ncs\github\i2s_minimal\build `
+    -s <path-to-i2s_minimal> `
+    -d <path-to-i2s_minimal>\build `
     --pristine
-west flash -d D:\work\ncs\github\i2s_minimal\build
+west flash -d <path-to-i2s_minimal>\build
 Pop-Location
 ```
 
