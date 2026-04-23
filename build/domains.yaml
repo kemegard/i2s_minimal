@@ -1,7 +1,0 @@
-default: i2s_minimal
-build_dir: D:/work/ncs/github/i2s_minimal/build
-domains:
-  - name: i2s_minimal
-    build_dir: D:/work/ncs/github/i2s_minimal/build/i2s_minimal
-flash_order:
-  - i2s_minimal
